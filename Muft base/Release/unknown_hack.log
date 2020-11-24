@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\source de cheats\unknownhack-csgo-main\hacks.h(158,27): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+D:\source de cheats\unknownhack-csgo-main\hacks.h(163,62): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+D:\source de cheats\unknownhack-csgo-main\hacks.h(165,67): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+D:\source de cheats\unknownhack-csgo-main\hacks.h(173,29): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+D:\source de cheats\unknownhack-csgo-main\main.cpp(143,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Gerando código
+  2 of 307 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  unknown_hack.vcxproj -> D:\source de cheats\unknownhack-csgo-main\Release\unknown_hack.exe
